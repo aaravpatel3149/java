@@ -66,4 +66,5 @@ public class P_10 {
 
         sc.close();
     }
+
 }
